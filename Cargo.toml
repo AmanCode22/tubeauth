@@ -1,0 +1,10 @@
+[package]
+name = "tubeauth"
+version = "0.1.0"
+edition = "2024"
+description = "A youtube leanback/tv api based login library in rust.(Inspired from SmartTube login)"
+license = "GPL-3.0"
+repository="https://github.com/AmanCode22/tubeauth"
+readme = "README.md"
+
+[dependencies]
