@@ -8,3 +8,8 @@ repository="https://github.com/AmanCode22/tubeauth"
 readme = "README.md"
 
 [dependencies]
+reqwest = "0.13.4"
+
+
+[lib]
+crate-type = ["lib", "staticlib", "cdylib"]
